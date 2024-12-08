@@ -9,3 +9,9 @@ server:
 llm:
   ip: 127.0.0.1
   port: 1234
+
+spring:
+  data:
+    mongodb:
+      database: test
+      uri:
